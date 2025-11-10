@@ -80,7 +80,7 @@ export default function Home() {
               id: 1,
               title: "Regional Championship 2024",
               description: "Conquered the regional tournament with an outstanding 15-2 season record, showcasing exceptional teamwork and determination",
-              imageSrc: "https://pixabay.com/get/ge13782f99a58375249bdda903c0058174d247d4282dc21484f8d4dce2d84e8c117ce677e9f37e83522a245f6ea48a738adb0fa0cfff8da9b4a09c4979db6d4a3_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g22b318fe25588dfd199325eebf901bbbf8dbb0c3436187eb1238b4edefebeb8fc2f989f27ec609b81b3ee6eb9030b41a4a720bcabf0a870786c69a9db9883613_1280.jpg",
               imageAlt: "Regional Championship trophy and team celebration"
             },
             {
