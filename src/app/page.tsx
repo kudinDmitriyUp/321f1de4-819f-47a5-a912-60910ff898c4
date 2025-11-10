@@ -13,6 +13,8 @@ import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterSocial from '@/components/sections/footer/FooterSocial';
 import { Award, BarChart3, Facebook, HelpCircle, Instagram, Mail, MessageSquare, Newspaper, Target, TrendingUp, Trophy, Twitter, Users } from 'lucide-react';
 
+const assetMap = [];
+
 export default function Home() {
   return (
     <ThemeProvider
