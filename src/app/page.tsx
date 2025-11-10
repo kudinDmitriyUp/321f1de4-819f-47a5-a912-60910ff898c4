@@ -46,7 +46,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardScroll
-          title="Champions of Niger School Basketball"
+          title="Niger School Basketball"
           description="Celebrating our incredible journey of victories, championships, and the relentless spirit that defines our basketball team"
           tag="School Champions"
           tagIcon={Trophy}
