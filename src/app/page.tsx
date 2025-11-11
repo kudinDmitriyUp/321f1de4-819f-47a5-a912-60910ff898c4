@@ -23,7 +23,7 @@ export default function Home() {
       borderRadius="pill"
       contentWidth="large"
       sizing="medium"
-      background="grid"
+      background="none"
       cardStyle="glass-depth"
       primaryButtonStyle="layered-depth"
       secondaryButtonStyle="layered"
